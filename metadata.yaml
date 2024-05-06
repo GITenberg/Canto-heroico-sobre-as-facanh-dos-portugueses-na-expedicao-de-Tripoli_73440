@@ -1,0 +1,54 @@
+_repo: Canto-heroico-sobre-as-facanh-dos-portugueses-na-expedicao-de-Tripoli_73440
+_version: 0.0.1
+alternative_title: Canto heróico sobre as façanhas dos portugueses na expedição de
+  Tripoli
+contributor:
+  translator:
+    agent_name: Bocage, Manuel Maria Barbosa du
+    aliases:
+    - Bocage, Manuel Maria de Barbosa du
+    - Barbosa du Bocage, Manuel Maria
+    - Du Bocage, Manuel Maria Barbosa
+    birthdate: 1765
+    deathdate: 1805
+    gutenberg_agent_id: '8542'
+    url: http://www.gutenberg.org/2009/agents/8542
+    wikipedia:
+    - https://pt.wikipedia.org/wiki/Manuel_Maria_Barbosa_du_Bocage
+    - https://en.wikipedia.org/wiki/Manuel_Maria_Barbosa_du_Bocage
+creator:
+  author:
+    agent_name: Cardoso, José Francisco
+    aliases:
+    - Cardoso, Jose Francisco
+    - Cardoso, Josephus Franciscus
+    gutenberg_agent_id: '57069'
+    url: http://www.gutenberg.org/2009/agents/57069
+description: Portuguese translation (Canto heróico) is followed by Latin original
+  (Carmen).
+gutenberg_issued: '2024-04-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '73440'
+language:
+- la
+- pt
+pgterms:marc905: 20070314092807cardoso
+pgterms:marc906: '1800'
+pgterms:marc907: PT
+production_note: Rita Farinha and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by National Library
+  of Portugal (Biblioteca Nacional de Portugal).)
+publication_note: '  $aLisboa :$bOff. da Casa Litt. do Arco do Cego, $c1800.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Portugal -- Foreign relations -- Libya -- Tripoli -- Poetry'
+- !lcsh 'John VI, King of Portugal, 1767-1826 -- Poetry'
+- !lcsh 'Latin poetry, Medieval and modern -- Brazil -- Translations into Portuguese'
+- !lcsh 'Latin poetry, Medieval and modern -- Brazil'
+- !lcc 'PA'
+- GITenberg
+title: Canto heróico sobre as façanh. dos portugueses na expedição de Tripoli
+url: http://www.gutenberg.org/ebooks/73440

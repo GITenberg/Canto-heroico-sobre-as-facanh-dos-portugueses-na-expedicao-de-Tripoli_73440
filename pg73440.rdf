@@ -1,0 +1,277 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF xml:base="http://www.gutenberg.org/"
+  xmlns:dcam="http://purl.org/dc/dcam/"
+  xmlns:dcterms="http://purl.org/dc/terms/"
+  xmlns:pgterms="http://www.gutenberg.org/2009/pgterms/"
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:marcrel="http://id.loc.gov/vocabulary/relators/"
+  xmlns:cc="http://web.resource.org/cc/"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+>
+  <pgterms:ebook rdf:about="ebooks/73440">
+    <dcterms:publisher>Project Gutenberg</dcterms:publisher>
+    <dcterms:license rdf:resource="license"/>
+    <dcterms:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2024-04-21</dcterms:issued>
+    <dcterms:rights>Public domain in the USA.</dcterms:rights>
+    <pgterms:downloads rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">295</pgterms:downloads>
+    <dcterms:creator>
+      <pgterms:agent rdf:about="2009/agents/57069">
+        <pgterms:name>Cardoso, José Francisco</pgterms:name>
+        <pgterms:alias>Cardoso, Jose Francisco</pgterms:alias>
+        <pgterms:alias>Cardoso, Josephus Franciscus</pgterms:alias>
+      </pgterms:agent>
+    </dcterms:creator>
+    <marcrel:trl>
+      <pgterms:agent rdf:about="2009/agents/8542">
+        <pgterms:name>Bocage, Manuel Maria Barbosa du</pgterms:name>
+        <pgterms:birthdate rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1765</pgterms:birthdate>
+        <pgterms:deathdate rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1805</pgterms:deathdate>
+        <pgterms:alias>Bocage, Manuel Maria de Barbosa du</pgterms:alias>
+        <pgterms:alias>Barbosa du Bocage, Manuel Maria</pgterms:alias>
+        <pgterms:alias>Du Bocage, Manuel Maria Barbosa</pgterms:alias>
+        <pgterms:webpage rdf:resource="https://pt.wikipedia.org/wiki/Manuel_Maria_Barbosa_du_Bocage"/>
+        <pgterms:webpage rdf:resource="https://en.wikipedia.org/wiki/Manuel_Maria_Barbosa_du_Bocage"/>
+      </pgterms:agent>
+    </marcrel:trl>
+    <dcterms:title>Canto heróico sobre as façanh. dos portugueses na expedição de Tripoli</dcterms:title>
+    <dcterms:alternative>Canto heróico sobre as façanhas dos portugueses na expedição de Tripoli</dcterms:alternative>
+    <pgterms:marc260>  $aLisboa :$bOff. da Casa Litt. do Arco do Cego, $c1800.</pgterms:marc260>
+    <dcterms:description>Portuguese translation (Canto heróico) is followed by Latin original (Carmen).</dcterms:description>
+    <pgterms:marc508>Rita Farinha and the Online Distributed Proofreading Team at https://www.pgdp.net (This file was produced from images generously made available by National Library of Portugal (Biblioteca Nacional de Portugal).)</pgterms:marc508>
+    <pgterms:marc905>20070314092807cardoso</pgterms:marc905>
+    <pgterms:marc906>1800</pgterms:marc906>
+    <pgterms:marc907>PT</pgterms:marc907>
+    <dcterms:language>
+      <rdf:Description rdf:nodeID="N802ea36987df4ed9a49023e5220ae182">
+        <rdf:value rdf:datatype="http://purl.org/dc/terms/RFC4646">la</rdf:value>
+      </rdf:Description>
+    </dcterms:language>
+    <dcterms:language>
+      <rdf:Description rdf:nodeID="N7fa872555da448cb88a6e86de2c0ef8b">
+        <rdf:value rdf:datatype="http://purl.org/dc/terms/RFC4646">pt</rdf:value>
+      </rdf:Description>
+    </dcterms:language>
+    <dcterms:subject>
+      <rdf:Description rdf:nodeID="Nad85727199f446cd88aa293f2104af06">
+        <dcam:memberOf rdf:resource="http://purl.org/dc/terms/LCSH"/>
+        <rdf:value>Portugal -- Foreign relations -- Libya -- Tripoli -- Poetry</rdf:value>
+      </rdf:Description>
+    </dcterms:subject>
+    <dcterms:subject>
+      <rdf:Description rdf:nodeID="N4700a6d812384e2e868e6a61c8361d49">
+        <dcam:memberOf rdf:resource="http://purl.org/dc/terms/LCSH"/>
+        <rdf:value>John VI, King of Portugal, 1767-1826 -- Poetry</rdf:value>
+      </rdf:Description>
+    </dcterms:subject>
+    <dcterms:subject>
+      <rdf:Description rdf:nodeID="N1a151ffea9ba43a5946fa7d406b708e5">
+        <dcam:memberOf rdf:resource="http://purl.org/dc/terms/LCSH"/>
+        <rdf:value>Latin poetry, Medieval and modern -- Brazil -- Translations into Portuguese</rdf:value>
+      </rdf:Description>
+    </dcterms:subject>
+    <dcterms:subject>
+      <rdf:Description rdf:nodeID="Naf93c3f7f7e34fb7a7a9464d2627b461">
+        <dcam:memberOf rdf:resource="http://purl.org/dc/terms/LCSH"/>
+        <rdf:value>Latin poetry, Medieval and modern -- Brazil</rdf:value>
+      </rdf:Description>
+    </dcterms:subject>
+    <dcterms:subject>
+      <rdf:Description rdf:nodeID="N774daed5e8d54fb2bfe0fabb4b4144a2">
+        <dcam:memberOf rdf:resource="http://purl.org/dc/terms/LCC"/>
+        <rdf:value>PA</rdf:value>
+      </rdf:Description>
+    </dcterms:subject>
+    <dcterms:type>
+      <rdf:Description rdf:nodeID="Nfd864fd84db74732b737a18593eb1d50">
+        <dcam:memberOf rdf:resource="http://purl.org/dc/terms/DCMIType"/>
+        <rdf:value>Text</rdf:value>
+      </rdf:Description>
+    </dcterms:type>
+    <dcterms:hasFormat>
+      <pgterms:file rdf:about="https://www.gutenberg.org/ebooks/73440.html.images">
+        <dcterms:isFormatOf rdf:resource="ebooks/73440"/>
+        <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">184345</dcterms:extent>
+        <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2024-04-21T15:00:53.856252</dcterms:modified>
+        <dcterms:format>
+          <rdf:Description rdf:nodeID="N40ba81febf9f43138ff2f15ef9eb72fb">
+            <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+            <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">text/html</rdf:value>
+          </rdf:Description>
+        </dcterms:format>
+      </pgterms:file>
+    </dcterms:hasFormat>
+    <dcterms:hasFormat>
+      <pgterms:file rdf:about="https://www.gutenberg.org/files/73440/73440-h/73440-h.htm">
+        <dcterms:isFormatOf rdf:resource="ebooks/73440"/>
+        <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">167231</dcterms:extent>
+        <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2024-04-21T14:05:33</dcterms:modified>
+        <dcterms:format>
+          <rdf:Description rdf:nodeID="N877c370580f84b5b82b53075ca2612e8">
+            <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+            <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">text/html</rdf:value>
+          </rdf:Description>
+        </dcterms:format>
+      </pgterms:file>
+    </dcterms:hasFormat>
+    <dcterms:hasFormat>
+      <pgterms:file rdf:about="https://www.gutenberg.org/ebooks/73440.epub3.images">
+        <dcterms:isFormatOf rdf:resource="ebooks/73440"/>
+        <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">313171</dcterms:extent>
+        <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2024-04-21T15:01:16.658126</dcterms:modified>
+        <dcterms:format>
+          <rdf:Description rdf:nodeID="N00d56193e04d4c86ba28ce0a8b7184ef">
+            <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+            <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">application/epub+zip</rdf:value>
+          </rdf:Description>
+        </dcterms:format>
+      </pgterms:file>
+    </dcterms:hasFormat>
+    <dcterms:hasFormat>
+      <pgterms:file rdf:about="https://www.gutenberg.org/ebooks/73440.epub.images">
+        <dcterms:isFormatOf rdf:resource="ebooks/73440"/>
+        <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">312975</dcterms:extent>
+        <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2024-04-21T15:01:05.140210</dcterms:modified>
+        <dcterms:format>
+          <rdf:Description rdf:nodeID="Neacf75c71a6f4e7989536269b7ebb69a">
+            <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+            <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">application/epub+zip</rdf:value>
+          </rdf:Description>
+        </dcterms:format>
+      </pgterms:file>
+    </dcterms:hasFormat>
+    <dcterms:hasFormat>
+      <pgterms:file rdf:about="https://www.gutenberg.org/ebooks/73440.epub.noimages">
+        <dcterms:isFormatOf rdf:resource="ebooks/73440"/>
+        <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">198833</dcterms:extent>
+        <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2024-04-21T15:00:57.646244</dcterms:modified>
+        <dcterms:format>
+          <rdf:Description rdf:nodeID="N118695f494a148389a7e82ecdd34994f">
+            <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+            <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">application/epub+zip</rdf:value>
+          </rdf:Description>
+        </dcterms:format>
+      </pgterms:file>
+    </dcterms:hasFormat>
+    <dcterms:hasFormat>
+      <pgterms:file rdf:about="https://www.gutenberg.org/ebooks/73440.kf8.images">
+        <dcterms:isFormatOf rdf:resource="ebooks/73440"/>
+        <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">757466</dcterms:extent>
+        <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2024-04-21T15:01:26.738084</dcterms:modified>
+        <dcterms:format>
+          <rdf:Description rdf:nodeID="N8e5f43321cab4f449b797e410fef4ade">
+            <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+            <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">application/x-mobipocket-ebook</rdf:value>
+          </rdf:Description>
+        </dcterms:format>
+      </pgterms:file>
+    </dcterms:hasFormat>
+    <dcterms:hasFormat>
+      <pgterms:file rdf:about="https://www.gutenberg.org/ebooks/73440.kindle.images">
+        <dcterms:isFormatOf rdf:resource="ebooks/73440"/>
+        <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">801018</dcterms:extent>
+        <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2024-04-21T15:01:16.017117</dcterms:modified>
+        <dcterms:format>
+          <rdf:Description rdf:nodeID="Nb555b679b059464391fbcbb7d9081a51">
+            <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+            <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">application/x-mobipocket-ebook</rdf:value>
+          </rdf:Description>
+        </dcterms:format>
+      </pgterms:file>
+    </dcterms:hasFormat>
+    <dcterms:hasFormat>
+      <pgterms:file rdf:about="https://www.gutenberg.org/ebooks/73440.txt.utf-8">
+        <dcterms:isFormatOf rdf:resource="ebooks/73440"/>
+        <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">115499</dcterms:extent>
+        <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2024-04-21T15:00:53.030249</dcterms:modified>
+        <dcterms:format>
+          <rdf:Description rdf:nodeID="N7e2f656673904c12b1da84c3d2a4bb23">
+            <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+            <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">text/plain; charset=us-ascii</rdf:value>
+          </rdf:Description>
+        </dcterms:format>
+      </pgterms:file>
+    </dcterms:hasFormat>
+    <dcterms:hasFormat>
+      <pgterms:file rdf:about="https://www.gutenberg.org/files/73440/73440-0.txt">
+        <dcterms:isFormatOf rdf:resource="ebooks/73440"/>
+        <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">95296</dcterms:extent>
+        <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2024-04-21T14:05:33</dcterms:modified>
+        <dcterms:format>
+          <rdf:Description rdf:nodeID="N1f952c0919ff4609b818ef7d66e7a357">
+            <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+            <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">text/plain; charset=us-ascii</rdf:value>
+          </rdf:Description>
+        </dcterms:format>
+      </pgterms:file>
+    </dcterms:hasFormat>
+    <dcterms:hasFormat>
+      <pgterms:file rdf:about="https://www.gutenberg.org/ebooks/73440.rdf">
+        <dcterms:isFormatOf rdf:resource="ebooks/73440"/>
+        <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5170</dcterms:extent>
+        <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2024-04-21T15:01:26.893072</dcterms:modified>
+        <dcterms:format>
+          <rdf:Description rdf:nodeID="N07fe69f65e9b467c8df311c96fe1d692">
+            <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+            <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">application/rdf+xml</rdf:value>
+          </rdf:Description>
+        </dcterms:format>
+      </pgterms:file>
+    </dcterms:hasFormat>
+    <dcterms:hasFormat>
+      <pgterms:file rdf:about="https://www.gutenberg.org/cache/epub/73440/pg73440.cover.medium.jpg">
+        <dcterms:isFormatOf rdf:resource="ebooks/73440"/>
+        <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">15007</dcterms:extent>
+        <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2024-04-21T15:01:04.574180</dcterms:modified>
+        <dcterms:format>
+          <rdf:Description rdf:nodeID="N065d453a83fe4b7a8ec5db953f050b5f">
+            <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+            <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">image/jpeg</rdf:value>
+          </rdf:Description>
+        </dcterms:format>
+      </pgterms:file>
+    </dcterms:hasFormat>
+    <dcterms:hasFormat>
+      <pgterms:file rdf:about="https://www.gutenberg.org/cache/epub/73440/pg73440.cover.small.jpg">
+        <dcterms:isFormatOf rdf:resource="ebooks/73440"/>
+        <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1880</dcterms:extent>
+        <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2024-04-21T15:01:04.314192</dcterms:modified>
+        <dcterms:format>
+          <rdf:Description rdf:nodeID="N5e957e650e4e4f629bb3ad184a6f4ce5">
+            <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+            <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">image/jpeg</rdf:value>
+          </rdf:Description>
+        </dcterms:format>
+      </pgterms:file>
+    </dcterms:hasFormat>
+    <dcterms:hasFormat>
+      <pgterms:file rdf:about="https://www.gutenberg.org/cache/epub/73440/pg73440-h.zip">
+        <dcterms:isFormatOf rdf:resource="ebooks/73440"/>
+        <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">625035</dcterms:extent>
+        <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2024-04-21T15:00:53.916279</dcterms:modified>
+        <dcterms:format>
+          <rdf:Description rdf:nodeID="N6e500eccd8d142688717da74ca2401c1">
+            <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+            <rdf:value>application/octet-stream</rdf:value>
+          </rdf:Description>
+        </dcterms:format>
+        <dcterms:format>
+          <rdf:Description rdf:nodeID="N7c1abfbfdb104b4392de0a4ef2c4848c">
+            <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+            <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">application/zip</rdf:value>
+          </rdf:Description>
+        </dcterms:format>
+      </pgterms:file>
+    </dcterms:hasFormat>
+  </pgterms:ebook>
+  <cc:Work rdf:about="">
+    <cc:license rdf:resource="https://creativecommons.org/publicdomain/zero/1.0/"/>
+    <rdfs:comment>Archives containing the RDF files for *all* our books can be downloaded at
+            https://www.gutenberg.org/wiki/Gutenberg:Feeds#The_Complete_Project_Gutenberg_Catalog</rdfs:comment>
+  </cc:Work>
+  <rdf:Description rdf:about="https://en.wikipedia.org/wiki/Manuel_Maria_Barbosa_du_Bocage">
+    <dcterms:description>en.wikipedia</dcterms:description>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://pt.wikipedia.org/wiki/Manuel_Maria_Barbosa_du_Bocage">
+    <dcterms:description>pt.wikipedia</dcterms:description>
+  </rdf:Description>
+</rdf:RDF>
