@@ -16,6 +16,9 @@ contributor:
     wikipedia:
     - https://pt.wikipedia.org/wiki/Manuel_Maria_Barbosa_du_Bocage
     - https://en.wikipedia.org/wiki/Manuel_Maria_Barbosa_du_Bocage
+covers:
+- cover_type: archival
+  image_path: 73440-h/images/cover.jpg
 creator:
   author:
     agent_name: Cardoso, José Francisco
@@ -26,6 +29,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/57069
 description: Portuguese translation (Canto heróico) is followed by Latin original
   (Carmen).
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/73440#Canto-heroico-sobre-as-facanh-dos-portugueses-na-expedicao-de-Tripoli
 gutenberg_issued: '2024-04-21'
 gutenberg_type: Text
 identifiers:
